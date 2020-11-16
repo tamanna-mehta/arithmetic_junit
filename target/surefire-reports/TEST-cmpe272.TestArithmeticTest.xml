@@ -64,9 +64,9 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="cmpe272.TestArithmeticTest" name="testSub" time="0.003"/>
+  <testcase classname="cmpe272.TestArithmeticTest" name="testAdd" time="0.003"/>
+  <testcase classname="cmpe272.TestArithmeticTest" name="testSub" time="0"/>
   <testcase classname="cmpe272.TestArithmeticTest" name="testMult" time="0"/>
-  <testcase classname="cmpe272.TestArithmeticTest" name="testDivByZero" time="0"/>
-  <testcase classname="cmpe272.TestArithmeticTest" name="testAdd" time="0"/>
   <testcase classname="cmpe272.TestArithmeticTest" name="testDiv" time="0"/>
+  <testcase classname="cmpe272.TestArithmeticTest" name="testDivByZero" time="0"/>
 </testsuite>
